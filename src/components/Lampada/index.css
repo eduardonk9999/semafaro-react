@@ -1,0 +1,12 @@
+li {
+  box-sizing: border-box;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  list-style: none;
+}
+
+p {
+  display: block;
+  margin: 0px 0 0 30px;
+}
