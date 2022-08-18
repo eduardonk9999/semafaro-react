@@ -16,7 +16,6 @@ export const Lampada = ({ colorButton}: infoSemafaro) => {
 
 
   return(
-
       <>
       <div>
         <button onClick={() => setColor("red")} style={{background: "red"}} />
